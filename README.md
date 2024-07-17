@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Password Generator](https://github.com/mkoramoa/Password-Generator.git)
 
 <h2>🎓 Certifications:</h2>
 
